@@ -1,3 +1,6 @@
 [submodule "mini-sns"]
 	path = mini-sns
 	url = git@github.com:SamAndEllen/mini-sns.git
+[submodule "mini-sns-backend"]
+	path = mini-sns-backend
+	url = git@github.com:SamAndEllen/mini-sns-backend.git
