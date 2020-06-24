@@ -1,0 +1,3 @@
+[submodule "mini-sns"]
+	path = mini-sns
+	url = git@github.com:SamAndEllen/mini-sns.git
